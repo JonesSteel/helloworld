@@ -1,5 +1,5 @@
 {
-	"name" : "helloworld/Helloworld",
+	"name" : "helloworld/helloworld",
 	"description" : "My first framework-agnostic PHP package",
 	"license" : "MIT",
 	"keywords" : ["helloworld"],
